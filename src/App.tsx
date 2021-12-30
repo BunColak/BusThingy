@@ -19,15 +19,11 @@ const cp = require("child_process");
 
 const App = () => {
   const openFile = async (file: string) => {
-    const child = cp.execFile(file, [], (error: any, stdout: any, stderr: any) => {
+    cp.execFile(file, [], (error: any, stdout: any, stderr: any) => {
       if (error) {
-        console.log(error, stderr);
-
         throw error;
       }
-      console.log(stdout);
     });
-    console.log(child);
   };
 
   return (
@@ -50,7 +46,6 @@ const App = () => {
                     <ListItem button onClick={() => openFile(lesson.path)}>
                       <ListItemText
                         primary={lesson.name}
-                        secondary="something here"
                       />
                       <Send color="action" />
                     </ListItem>

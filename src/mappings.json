@@ -2,34 +2,78 @@
     {
         "name": "Introduction",
         "lessons": [
-            {"name": "Getting Started", "path": "/Users/buncolak/Desktop/Projects/airbus/src/files/test.md"},
-            {"name": "Lesson 2", "path": "./files/test.md"},
-            {"name": "Lesson 3", "path": "./files/test.md"},
-            {"name": "Lesson 4", "path": "./files/test.md"},
-            {"name": "Lesson 5", "path": "./files/test.md"},
-            {"name": "Lesson 6", "path": "./files/test.md"}
+            {"name": "Getting Started", "path": "./src/files/cbt1/A300cd1/cd1/cd1_1_1GS.exe"},
+            {"name": "Course Introduction", "path": "./src/files/cbt1/A300cd1/cd1/cd1_1_2CI.exe"}
         ]
     },
     {
-        "name": "Category 2",
+        "name": "ATA20 Aircraft General",
         "lessons": [
-            {"name": "Lesson 1", "path": "./files/Postman.app"},
-            {"name": "Lesson 2", "path": "./files/test.md"},
-            {"name": "Lesson 3", "path": "./files/test.md"},
-            {"name": "Lesson 4", "path": "./files/test.md"},
-            {"name": "Lesson 5", "path": "./files/test.md"},
-            {"name": "Lesson 6", "path": "./files/test.md"}
+            {"name": "Aircraft General", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_1AG.exe"},
+            {"name": "Cockpit Layout", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_2CL.exe"},
+            {"name": "External Inspection", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_3EI.exe"},
+            {"name": "Internal Lighting", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_4IL.exe"},
+            {"name": "External Lighting", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_5EL.exe"},
+            {"name": "Doors & Exits", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_6DE.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_2_7CT.exe"}
         ]
     },
     {
-        "name": "Category 3",
+        "name": "ATA31 ECAM",
         "lessons": [
-            {"name": "Lesson 1", "path": "./files/test.md"},
-            {"name": "Lesson 2", "path": "./files/test.md"},
-            {"name": "Lesson 3", "path": "./files/test.md"},
-            {"name": "Lesson 4", "path": "./files/test.md"},
-            {"name": "Lesson 5", "path": "./files/test.md"},
-            {"name": "Lesson 6", "path": "./files/test.md"}
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_1PP.exe"},
+            {"name": "Normal Mode", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_2NM.exe"},
+            {"name": "Right ECAM Display", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_3RED.exe"},
+            {"name": "Failure Mode Part 1", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_4FM1.exe"},
+            {"name": "Failure Mode Part 2", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_5FM2.exe"},
+            {"name": "Aural Warnings", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_6AW.exe"},
+            {"name": "ECAM System Failures", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_7ESF.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_3_8CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA24 Electrical",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_1PP.exe"},
+            {"name": "AC Power", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_2AP.exe"},
+            {"name": "DC Power", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_3DP.exe"},
+            {"name": "Emergency Power", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_4EP.exe"},
+            {"name": "Electrical Power Panel (NOT WORKING)", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_5EPP.exe"},
+            {"name": "Electrical Indicator Panel", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_6EIP.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_7ECAM.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_8NO.exe"},
+            {"name": "AC Warnings", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_9AW.exe"},
+            {"name": "DC Warnings", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_10DW.exe"},
+            {"name": "Gen 1 Failure", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_11GF.exe"},
+            {"name": "AC BUS 1 Failure", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_12AF.exe"},
+            {"name": "Battery Overheat", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_13BO.exe"},
+            {"name": "DC NORM Bus Failure", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_14DF.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_4_15CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA36 Pneumatic System",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_1PP.exe"},
+            {"name": "System Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_2SP.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_3EPP.exe"},
+            {"name": "Controls", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_4CTR.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_5NO.exe"},
+            {"name": "Warning & Limitations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_6WAR.exe"},
+            {"name": "Failures", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_7FA.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_5_8CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA21 Pressurization",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_1PP.exe"},
+            {"name": "System Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_2SP.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_3EPP.exe"},
+            {"name": "Controls", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_4CTR.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_5NO.exe"},
+            {"name": "Warnings & Limitations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_6WL.exe"},
+            {"name": "Failures", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_7FL.exe"}
         ]
     }
 ]
