@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Introduction",
+        "lessons": [
+            {"name": "Getting Started", "path": "/Users/buncolak/Desktop/Projects/airbus/src/files/test.md"},
+            {"name": "Lesson 2", "path": "./files/test.md"},
+            {"name": "Lesson 3", "path": "./files/test.md"},
+            {"name": "Lesson 4", "path": "./files/test.md"},
+            {"name": "Lesson 5", "path": "./files/test.md"},
+            {"name": "Lesson 6", "path": "./files/test.md"}
+        ]
+    },
+    {
+        "name": "Category 2",
+        "lessons": [
+            {"name": "Lesson 1", "path": "./files/Postman.app"},
+            {"name": "Lesson 2", "path": "./files/test.md"},
+            {"name": "Lesson 3", "path": "./files/test.md"},
+            {"name": "Lesson 4", "path": "./files/test.md"},
+            {"name": "Lesson 5", "path": "./files/test.md"},
+            {"name": "Lesson 6", "path": "./files/test.md"}
+        ]
+    },
+    {
+        "name": "Category 3",
+        "lessons": [
+            {"name": "Lesson 1", "path": "./files/test.md"},
+            {"name": "Lesson 2", "path": "./files/test.md"},
+            {"name": "Lesson 3", "path": "./files/test.md"},
+            {"name": "Lesson 4", "path": "./files/test.md"},
+            {"name": "Lesson 5", "path": "./files/test.md"},
+            {"name": "Lesson 6", "path": "./files/test.md"}
+        ]
+    }
+]
