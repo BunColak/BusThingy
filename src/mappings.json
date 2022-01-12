@@ -75,5 +75,93 @@
             {"name": "Warnings & Limitations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_6WL.exe"},
             {"name": "Failures", "path": "./src/files/cbt1/A300cd1/cd1/cd1_6_7FL.exe"}
         ]
+    },
+    {
+        "name": "ATA21 Ventilation",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_7_1PP.exe"},
+            {"name": "System Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_7_2SP.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_7_3NO.exe"},
+            {"name": "Warnings", "path": "./src/files/cbt1/A300cd1/cd1/cd1_7_4WAR.exe"}
+        ]
+    },
+    {
+        "name": "ATA21 Air Conditioning",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_1PP.exe"},
+            {"name": "System Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_2SP.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_3EPP.exe"},
+            {"name": "Controls", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_4CTR.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_5NO.exe"},
+            {"name": "Warnings", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_6WAR.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_8_7CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA21 Auxilary Power Unit",
+        "lessons": [
+            {"name": "Purpose & Introduction", "path": "./src/files/cbt1/A300cd1/cd1/cd1_9_1PI.exe"},
+            {"name": "Controls", "path": "./src/files/cbt1/A300cd1/cd1/cd1_9_2CTR.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_9_3EPP.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_9_4NO.exe"},
+            {"name": "Warning & Limitations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_9_5WAR.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_9_6CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA29 Hydraulic System",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_1PP.exe"},
+            {"name": "Generation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_2G.exe"},
+            {"name": "Distribution", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_3D.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_4EPP.exe"},
+            {"name": "Controls", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_5CTR.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_6NO.exe"},
+            {"name": "Warnings & Operating Limitations", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_7WOL.exe"},
+            {"name": "BLUE Engine Pump Low Pressure", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_8BEPLP.exe"},
+            {"name": "GREEN & YELLOW Reservoir Low Level", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_9GYRLL.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt1/A300cd1/cd1/cd1_10_10CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA27 Flight Controls",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt2/cd2_1_1PP.exe"},
+            {"name": "Flight Control Power Sources", "path": "./src/files/cbt2/cd2_1_2PS.exe"},
+            {"name": "Pitch Controls", "path": "./src/files/cbt2/cd2_1_3PC.exe"},
+            {"name": "Roll Controls", "path": "./src/files/cbt2/cd2_1_4RC.exe"},
+            {"name": "Yaw Controls", "path": "./src/files/cbt2/cd2_1_5YC.exe"},
+            {"name": "Slats & Flaps Controls", "path": "./src/files/cbt2/cd2_1_6SF.exe"},
+            {"name": "Speed Brakes & Ground Spoiler Controls", "path": "./src/files/cbt2/cd2_1_7SB.exe"},
+            {"name": "Takeoff Configuration", "path": "./src/files/cbt2/cd2_1_8TC.exe"},
+            {"name": "ECAM Page Presentation", "path": "./src/files/cbt2/cd2_1_9EPP.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt2/cd2_1_10NO.exe"},
+            {"name": "Primary Flight Controls Warnings", "path": "./src/files/cbt2/cd2_1_11PF.exe"},
+            {"name": "Secondary Flight Controls Warnings", "path": "./src/files/cbt2/cd2_1_12SF.exe"},
+            {"name": "YELLOW SERVO Control JAM Procedure", "path": "./src/files/cbt2/cd2_1_13YS.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_1_14CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA32 Landing Gear & NWS",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt2/cd2_2_1PP.exe"},
+            {"name": "Description", "path": "./src/files/cbt2/cd2_2_2DE.exe"},
+            {"name": "Controls & Indicators", "path": "./src/files/cbt2/cd2_2_3CI.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt2/cd2_2_4NO.exe"},
+            {"name": "Warnings & Operating Limitations", "path": "./src/files/cbt2/cd2_2_5WO.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_2_6CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA32 Landing Gear (Brakes)",
+        "lessons": [
+            {"name": "Introduction", "path": "./src/files/cbt2/cd2_3_1IN.exe"},
+            {"name": "Braking Modes", "path": "./src/files/cbt2/cd2_3_2BM.exe"},
+            {"name": "Controls & Indicators", "path": "./src/files/cbt2/cd2_3_3CI.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt2/cd2_3_4NO.exe"},
+            {"name": "Warnings & Operating Limitations", "path": "./src/files/cbt2/cd2_3_5WO.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_3_6CT.exe"}
+        ]
     }
 ]
