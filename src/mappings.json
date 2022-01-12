@@ -163,5 +163,83 @@
             {"name": "Warnings & Operating Limitations", "path": "./src/files/cbt2/cd2_3_5WO.exe"},
             {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_3_6CT.exe"}
         ]
+    },
+    {
+        "name": "ATA 28 Fuel System",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt2/cd2_4_1PP.exe"},
+            {"name": "Tank Presentation", "path": "./src/files/cbt2/cd2_4_2TP.exe"},
+            {"name": "Engine Feed", "path": "./src/files/cbt2/cd2_4_3EF.exe"},
+            {"name": "Trim Tank Transfer & CG Control", "path": "./src/files/cbt2/cd2_4_4TC.exe"},
+            {"name": "ECAM Page Representation", "path": "./src/files/cbt2/cd2_4_5EPP.exe"},
+            {"name": "Fuel Controls & Indicators", "path": "./src/files/cbt2/cd2_4_6FC.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt2/cd2_4_7NO.exe"},
+            {"name": "Warnings", "path": "./src/files/cbt2/cd2_4_8WR.exe"},
+            {"name": "L&R CTR TK PUMPS Fault", "path": "./src/files/cbt2/cd2_4_9PF.exe"},
+            {"name": "Trim TK SYS Fault", "path": "./src/files/cbt2/cd2_4_10TT.exe"},
+            {"name": "EXCESS AFT CG Fault", "path": "./src/files/cbt2/cd2_4_11EA.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_4_12CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA70 Power Plant",
+        "lessons": [
+            {"name": "Engine Presentation", "path": "./src/files/cbt2/cd2_5_1EP.exe"},
+            {"name": "Controls & Monitoring", "path": "./src/files/cbt2/cd2_5_2CM.exe"},
+            {"name": "ECAM Presentation", "path": "./src/files/cbt2/cd2_5_3EP.exe"},
+            {"name": "Ignition & Steering", "path": "./src/files/cbt2/cd2_5_4IS.exe"},
+            {"name": "Thrust Computation & Control", "path": "./src/files/cbt2/cd2_5_5TC.exe"},
+            {"name": "Thrust Reverter System", "path": "./src/files/cbt2/cd2_5_6THR.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt2/cd2_5_7NO.exe"},
+            {"name": "Engine Failures", "path": "./src/files/cbt2/cd2_5_8EF.exe"},
+            {"name": "Abnormal Start", "path": "./src/files/cbt2/cd2_5_9AS.exe"},
+            {"name": "Chapter Start", "path": "./src/files/cbt2/cd2_5_10CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA26 Fire Protection",
+        "lessons": [
+            {"name": "Purpose & Principle", "path": "./src/files/cbt2/cd2_6_1PP.exe"},
+            {"name": "Engine Fire Protection", "path": "./src/files/cbt2/cd2_6_2EF.exe"},
+            {"name": "APU Fire Protection", "path": "./src/files/cbt2/cd2_6_3APU.exe"},
+            {"name": "Avionics Smoke Detection System", "path": "./src/files/cbt2/cd2_6_4AS.exe"},
+            {"name": "Cargo Compt Fire Protection", "path": "./src/files/cbt2/cd2_6_5CC.exe"},
+            {"name": "Warnings", "path": "./src/files/cbt2/cd2_6_6WR.exe"},
+            {"name": "Engine Fire In Flight", "path": "./src/files/cbt2/cd2_6_7EFF.exe"},
+            {"name": "Cargo Smoke", "path": "./src/files/cbt2/cd2_6_8CS.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_6_9CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA30 Ice & Rain Protection",
+        "lessons": [
+            {"name": "Purpose & Principle", "path": "./src/files/cbt2/cd2_7_1PP.exe"},
+            {"name": "Wing Anti-Ice System", "path": "./src/files/cbt2/cd2_7_2WA.exe"},
+            {"name": "Engine Ice Protection System", "path": "./src/files/cbt2/cd2_7_3EI.exe"},
+            {"name": "Probe & Window Heat", "path": "./src/files/cbt2/cd2_7_4PW.exe"},
+            {"name": "Wiper & Rain Repellent", "path": "./src/files/cbt2/cd2_7_5WR.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_7_6CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA25 Emergency Equipment",
+        "lessons": [
+            {"name": "Introduction", "path": "./src/files/cbt2/cd2_8_1IN.exe"},
+            {"name": "Controls", "path": "./src/files/cbt2/cd2_8_2CTR.exe"},
+            {"name": "Normal Operations", "path": "./src/files/cbt2/cd2_8_3NO.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt2/cd2_8_4CT.exe"}
+        ]
+    },
+    {
+        "name": "ATA24 Communications",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt3/cd3_1_1PP.exe"},
+            {"name": "System Presentation", "path": "./src/files/cbt3/cd3_1_2SP.exe"},
+            {"name": "Audi Selector Panel", "path": "./src/files/cbt3/cd3_1_3ASP.exe"},
+            {"name": "Radio Communication Systems", "path": "./src/files/cbt3/cd3_1_4RCS.exe"},
+            {"name": "Interphone & Passenger Address Systems", "path": "./src/files/cbt3/cd3_1_5IP.exe"},
+            {"name": "Flight Recorders", "path": "./src/files/cbt3/cd3_1_6FR.exe"},
+            {"name": "Chapter Test", "path": "./src/files/cbt3/cd3_1_7CT.exe"}
+        ]
     }
 ]
