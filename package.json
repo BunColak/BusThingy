@@ -6,7 +6,10 @@
     "dev": "vite",
     "electron:dev": "concurrently -k \"cross-env BROWSER=none pnpm dev\" \" pnpm electron ./src/electron.js \"",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "electron:builder": "electron-builder --win portable",
+    "build:for:electron": "vite build && cross-env ELECTRON=true vite build",
+    "app:build": "yarn build:for:electron && yarn electron:builder"
   },
   "dependencies": {
     "@babel/core": ">=7.0.0 <8.0.0",
@@ -21,6 +24,7 @@
   "devDependencies": {
     "@types/node": "^17.0.5",
     "@types/react": "^17.0.33",
+    "electron-builder": "^22.14.5",
     "@types/react-dom": "^17.0.10",
     "@vitejs/plugin-react": "^1.0.7",
     "concurrently": "^6.5.1",
@@ -30,11 +34,24 @@
     "vite": "^2.7.2"
   },
   "build": {
-    "extraResources": [
-      {
-        "from": "./src/files",
-        "to": "files"
-      }
-    ]
+    "appId": "com.my-website.my-app",
+    "productName": "MyApp",
+    "copyright": "Copyright © 2021",
+    "mac": {
+      "category": "public.app-category.utilities"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "files": [
+      "dist/**/*",
+      "src/electron.js"
+    ],
+    "directories": {
+      "buildResources": "assets",
+      "output": "dist_electron"
+    },
+    "extends": null
   }
 }
