@@ -241,5 +241,74 @@
             {"name": "Flight Recorders", "path": "./src/files/cbt3/cd3_1_6FR.exe"},
             {"name": "Chapter Test", "path": "./src/files/cbt3/cd3_1_7CT.exe"}
         ]
+    },
+    {
+        "name": "ATA34 FLT INSTS & NAV-I",
+        "lessons": [
+            {"name": "Overview", "path": "./src/files/cbt3/cd3_2_1OV.exe"},
+            {"name": "Air Data Systems", "path": "./src/files/cbt3/cd3_2_2ADS.exe"},
+            {"name": "IRS Overview", "path": "./src/files/cbt3/cd3_2_3IRSO.exe"},
+            {"name": "IRS Alignments", "path": "./src/files/cbt3/cd3_2_4IRSA.exe"},
+            {"name": "Clocks", "path": "./src/files/cbt3/cd3_2_5CLK.exe"},
+            {"name": "Introduction to the EFIS", "path": "./src/files/cbt3/cd3_2_6INT.exe"},
+            {"name": "PFD Recognition", "path": "./src/files/cbt3/cd3_2_7PRE.exe"},
+            {"name": "Flight Guidance and FPV", "path": "./src/files/cbt3/cd3_2_8FG.exe"},
+            {"name": "ND Recognition", "path": "./src/files/cbt3/cd3_2_9NDR.exe"},
+            {"name": "Secondary Flight Instruments", "path": "./src/files/cbt3/cd3_2_10SF.exe"},
+            {"name": "Standby Flight Instruments", "path": "./src/files/cbt3/cd3_2_11SBF.exe"},
+            {"name": "ADF", "path": "./src/files/cbt3/cd3_2_12ADF.exe"},
+            {"name": "VOR", "path": "./src/files/cbt3/cd3_2_13VOR.exe"},
+            {"name": "FPV Non Precision Approach", "path": "./src/files/cbt3/cd3_2_14FPV.exe"},
+            {"name": "ILS Approach", "path": "./src/files/cbt3/cd3_2_15ILS.exe"}
+        ]
+    },
+    {
+        "name": "ATA34 FLT INSTS & NAV-II",
+        "lessons": [
+            {"name": "ATC & TCAS", "path": "./src/files/cbt3/cd3_3_1AT.exe"},
+            {"name": "GPWS", "path": "./src/files/cbt3/cd3_3_2GPWS.exe"},
+            {"name": "Weather Radar", "path": "./src/files/cbt3/cd3_3_3WR.exe"},
+            {"name": "Information Recovery - ADC & EFIS", "path": "./src/files/cbt3/cd3_3_4IR.exe"},
+            {"name": "Information Recovery - IRS", "path": "./src/files/cbt3/cd3_3_5IRE.exe"},
+            {"name": "Failure & Warnings", "path": "./src/files/cbt3/cd3_3_6FW.exe"},
+            {"name": "IRS Abnormal Operations", "path": "./src/files/cbt3/cd3_3_7ABNO.exe"},
+            {"name": "Chapter Test 1", "path": "./src/files/cbt3/cd3_3_8CT1.exe"},
+            {"name": "Chapter Test 2", "path": "./src/files/cbt3/cd3_3_9CT2.exe"}
+        ]
+    },
+    {
+        "name": "ATA22 AFS",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt4/cd4_1_1PP.exe"},
+            {"name": "The FACs", "path": "./src/files/cbt4/cd4_1_2FAC.exe"},
+            {"name": "AP/FD System Presentation", "path": "./src/files/cbt4/cd4_1_3SP.exe"},
+            {"name": "Flight Directors", "path": "./src/files/cbt4/cd4_1_4FD.exe"},
+            {"name": "Autopilot", "path": "./src/files/cbt4/cd4_1_5AP.exe"},
+            {"name": "Autothrottle System", "path": "./src/files/cbt4/cd4_1_6AS.exe"},
+            {"name": "Cockpit Preparation & Takeoff", "path": "./src/files/cbt4/cd4_1_7CPTO.exe"},
+            {"name": "Climb & Cruise", "path": "./src/files/cbt4/cd4_1_8CC.exe"},
+            {"name": "Descend/Approach & Landing", "path": "./src/files/cbt4/cd4_1_9DAL.exe"},
+            {"name": "Warnings Part 1", "path": "./src/files/cbt4/cd4_1_10WP1.exe"},
+            {"name": "Warnings Part 2", "path": "./src/files/cbt4/cd4_1_11WP2.exe"},
+            {"name": "Chapter Test 1", "path": "./src/files/cbt4/cd4_1_12CT1.exe"},
+            {"name": "Chapter Test 2", "path": "./src/files/cbt4/cd4_1_13CT2.exe"}
+        ]
+    },
+    {
+        "name": "ATA22 AFS - FMS",
+        "lessons": [
+            {"name": "Purpose & Principles", "path": "./src/files/cbt4/cd4_2_1PP.exe"},
+            {"name": "System Presentation", "path": "./src/files/cbt4/cd4_2_2SP.exe"},
+            {"name": "The CDU", "path": "./src/files/cbt4/cd4_2_3CDU.exe"},
+            {"name": "Cockpit Preperation Part 1", "path": "./src/files/cbt4/cd4_2_4CP1.exe"},
+            {"name": "Cockpit Preperation Part 2", "path": "./src/files/cbt4/cd4_2_5CP2.exe"},
+            {"name": "Takeoff & Climb", "path": "./src/files/cbt4/cd4_2_6TOC.exe"},
+            {"name": "Cruise", "path": "./src/files/cbt4/cd4_2_7CRS.exe"},
+            {"name": "Descent & Approach", "path": "./src/files/cbt4/cd4_2_8DA.exe"},
+            {"name": "Go Around", "path": "./src/files/cbt4/cd4_2_9GA.exe"},
+            {"name": "Warnings", "path": "./src/files/cbt4/cd4_2_10WR.exe"},
+            {"name": "Chapter Test 1", "path": "./src/files/cbt4/cd4_2_11CT1.exe"},
+            {"name": "Chapter Test 2", "path": "./src/files/cbt4/cd4_2_12CT2.exe"}
+        ]
     }
 ]
